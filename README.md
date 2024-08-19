@@ -10,7 +10,7 @@
   - [Hipótesis](#hipótesis)
 - [Conclusiones](#Conclusiones)
 - [Recomendaciones](#Recomendaciones)
-- [Recursos](#Recursos)
+- [Presentacion del proyecto](#presentación_del_proyecto)
 
 ### Objetivo
 
@@ -112,31 +112,6 @@ Estaciones con Capacidad Baja:
 ### **Conclusiones**
 Las estaciones con mayor capacidad tienden a tener mejor disponibilidad de bicicletas, pero la alta demanda durante las horas pico sigue representando un desafío significativo. Los resultados sugieren que, además de aumentar la capacidad, es crucial implementar estrategias de reabastecimiento dinámico y segmentación de usuarios para mejorar la eficiencia del sistema y satisfacer mejor la demanda de los usuarios.
 
-### **Recomendaciones**
-
-Claro, aquí tienes una versión más corta y parafraseada:
-
-1. **Optimización de Bicicletas**: Redistribuir bicicletas dinámicamente en áreas comerciales y horas pico para mejorar la disponibilidad.
-   
-
-2. **Aumento de Capacidad**: Ampliar la capacidad en estaciones clave y comerciales para mejorar la disponibilidad.
-  
-
-3. **Segmentación de Usuarios**: Crear estrategias de precios y servicios diferenciados para suscritos y ocasionales, ofreciendo incentivos en periodos de baja demanda.
-
-4. **Mejora de Experiencia por Género**:
-   - **Recomendación**: Investigar y hacer el servicio más accesible para mujeres mediante campañas, infraestructura y seguridad.
-   - **Observación**: Hay una gran diferencia en el uso entre hombres y mujeres.
-
-5. **Análisis de Estaciones Subutilizadas**: Identificar y reubicar estaciones con baja rotación para mejorar la eficiencia.
-
-
-6. **Mejora de Comunicación**: Implementar notificaciones en tiempo real sobre disponibilidad en la app, especialmente en horas pico.
- 
-
-7. **Expansión en Áreas Residenciales**:  Ampliar estaciones en áreas residenciales para equilibrar oferta y demanda.
-
-
 ### Presentación del Proyecto 
 
 >
@@ -155,3 +130,28 @@ Visualizaciones:
 5.-Género: La visualización del género muestra una mayor proporción de usuarios masculinos.
 
 6.-Top 10 Stations (por stoptime): La gráfica de línea muestra del uso de las estaciones más populares.
+
+### **Recomendaciones**
+
+Claro, aquí tienes una versión más corta y parafraseada:
+
+1. **Optimización de Bicicletas**: Redistribuir bicicletas dinámicamente en áreas comerciales y horas pico para mejorar la disponibilidad.
+   
+
+2. **Aumento de Capacidad**: Ampliar la capacidad en estaciones clave y comerciales para mejorar la disponibilidad.
+  
+
+3. **Segmentación de Usuarios**: Crear estrategias de precios y servicios diferenciados para suscritos y ocasionales, ofreciendo incentivos en periodos de baja demanda.
+
+4. **Mejora de Experiencia por Género**: Investigar y hacer el servicio más accesible para mujeres mediante campañas, infraestructura y seguridad.
+
+
+5. **Análisis de Estaciones Subutilizadas**: Identificar y reubicar estaciones con baja rotación para mejorar la eficiencia.
+
+
+6. **Mejora de Comunicación**: Implementar notificaciones en tiempo real sobre disponibilidad en la app, especialmente en horas pico.
+ 
+
+7. **Expansión en Áreas Residenciales**:  Ampliar estaciones en áreas residenciales para equilibrar oferta y demanda.
+
+

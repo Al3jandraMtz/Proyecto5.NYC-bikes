@@ -114,13 +114,44 @@ Las estaciones con mayor capacidad tienden a tener mejor disponibilidad de bicic
 
 ### **Recomendaciones**
 
-* Reabastecimiento Dinámico: Implementar sistemas que respondan en tiempo real a la demanda, usando algoritmos de predicción para anticipar y reabastecer estaciones antes de que se agoten.
-* Segmentación y Pricing: Diferenciar estrategias de precios y servicios para usuarios ocasionales y suscritos, ofreciendo descuentos para viajes largos a los ocasionales y tarifas planas para los suscritos.
-* Aumento de Capacidad: Incrementar la capacidad en estaciones de alta demanda, como centros comerciales y áreas de oficinas, complementado con una gestión activa de redistribución de bicicletas.
-* Análisis y Monitoreo: Realizar análisis continuos para identificar patrones de demanda y ajustar la distribución y capacidad de las estaciones, monitoreando la efectividad de las estrategias.
-* Factores Adicionales: Investigar otros factores que afectan la disponibilidad, como proximidad a transporte público, eventos locales o condiciones meteorológicas.
-* Mejora de la Experiencia del Usuario: Implementar alertas en la aplicación para informar sobre la disponibilidad de bicicletas en tiempo real, especialmente durante las horas pico.
+Claro, aquí tienes una versión más corta y parafraseada:
 
-## **Recursos**
+1. **Optimización de Bicicletas**: Redistribuir bicicletas dinámicamente en áreas comerciales y horas pico para mejorar la disponibilidad.
+   
+
+2. **Aumento de Capacidad**: Ampliar la capacidad en estaciones clave y comerciales para mejorar la disponibilidad.
+  
+
+3. **Segmentación de Usuarios**: Crear estrategias de precios y servicios diferenciados para suscritos y ocasionales, ofreciendo incentivos en periodos de baja demanda.
+
+4. **Mejora de Experiencia por Género**:
+   - **Recomendación**: Investigar y hacer el servicio más accesible para mujeres mediante campañas, infraestructura y seguridad.
+   - **Observación**: Hay una gran diferencia en el uso entre hombres y mujeres.
+
+5. **Análisis de Estaciones Subutilizadas**: Identificar y reubicar estaciones con baja rotación para mejorar la eficiencia.
+
+
+6. **Mejora de Comunicación**: Implementar notificaciones en tiempo real sobre disponibilidad en la app, especialmente en horas pico.
+ 
+
+7. **Expansión en Áreas Residenciales**:  Ampliar estaciones en áreas residenciales para equilibrar oferta y demanda.
+
 
 ### Presentación del Proyecto 
+
+>
+>![alt text](image-11.png)
+
+Visualizaciones:
+
+1.- Scorecards: Los indicadores clave como el número total de viajes, estaciones, y el tiempo promedio de viaje.
+
+2.- Comparativa de Viajes por Área: Muestra la diferencia entre las áreas comerciales, residenciales, y desconocidas en términos de viajes iniciados y terminados.
+
+3.- Disponibilidad de Estaciones: El gráfico de barras combinado con la línea roja para el número de muelles muestra la disponibilidad de bicicletas y muelles en estaciones de diferentes capacidades.
+
+4.-Tipos de Usuario: El gráfico circular muestra la distribución entre usuarios suscritos y ocasionales, y el tiempo promedio de sus viajes.
+
+5.-Género: La visualización del género muestra una mayor proporción de usuarios masculinos.
+
+6.-Top 10 Stations (por stoptime): La gráfica de línea muestra del uso de las estaciones más populares.

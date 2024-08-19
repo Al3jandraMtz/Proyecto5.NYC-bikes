@@ -9,8 +9,9 @@
   - [Análisis exploratorio](#análisis_exploratorio)
   - [Hipótesis](#hipótesis)
 - [Conclusiones](#Conclusiones)
-- [Recomendaciones](#Recomendaciones)
 - [Presentacion del proyecto](#presentación_del_proyecto)
+- [Recomendaciones](#Recomendaciones)
+
 
 ### Objetivo
 

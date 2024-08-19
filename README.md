@@ -8,8 +8,6 @@
   - [Limpieza de datos ](#limpieza_de_datos)
   - [Análisis exploratorio](#análisis_exploratorio)
   - [Hipótesis](#hipótesis)
-  - [Score de Riesgo](#score_de_riesgo)
-  - [Regresión Logistica](#regresion_logistica)
 - [Conclusiones](#Conclusiones)
 - [Recomendaciones](#Recomendaciones)
 - [Recursos](#Recursos)
@@ -23,6 +21,7 @@ En este proyecto, se llevara a cabo un análisis exploratorio de datos utilizand
   2. Google Colab
   3. Tableu
   4. Visual Studio
+  5.- ChatGpt
 
 ## **Procesamiento**
 

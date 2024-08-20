@@ -138,8 +138,6 @@ Visualizaciones:
 
 ### **Recomendaciones**
 
-Claro, aquí tienes una versión más corta y parafraseada:
-
 1. **Optimización de Bicicletas**: Redistribuir bicicletas dinámicamente en áreas comerciales y horas pico para mejorar la disponibilidad.
    
 

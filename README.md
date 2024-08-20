@@ -1,5 +1,9 @@
 # Proyecto5.NYC-bikes
 
+![Diseño sin título](https://github.com/user-attachments/assets/b5880f28-77da-410c-9511-f0ebdd0204a2)
+
+
+
 ### Temas
 
 - [Objetivo](#objetivo)
